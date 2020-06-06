@@ -25,10 +25,10 @@
   },
   {
     "name": "Angular",
-    "value": 3.5
+    "value": 4
   },
   {
-    "name": "AngularJs",
+    "name": "Angular Js",
     "value": 4
   },
   {
@@ -40,8 +40,16 @@
     "value": 3
   },
   {
-    "name": "NodeJs",
+    "name": "Node Js",
     "value": 3
+  },
+  {
+    "name": "Graphql",
+    "value": 2
+  },
+  {
+    "name": "JEST",
+    "value": 4
   },
   {
     "name": "Responsive Design",
@@ -56,12 +64,12 @@
     "value": 5
   },
   {
-    "name": "C#",
-    "value": 3.5
+    "name": "Firebase",
+    "value": 2
   },
   {
-    "name": "MVC",
-    "value": 3.5
+    "name": "MongoDB",
+    "value": 2
   },
   {
     "name": "SQL & PL/SQL",
@@ -73,6 +81,10 @@
   },
   {
     "name": "GIT",
+    "value": 5
+  },
+  {
+    "name": "SVN",
     "value": 5
   },
   {
@@ -104,15 +116,47 @@
     "value": 4
   },
   {
-    "name": "Azure DevOps",
-    "value": 4
-  },
-  {
     "name": "Adobe Photoshop",
     "value": 3
   },
   {
     "name": "Adobe XD",
     "value": 2.5
+  },
+  {
+    "name": "Azure DevOps",
+    "value": 4
+  },
+  {
+    "name": "SharePoint",
+    "value": 3.5
+  },
+  {
+    "name": "C#",
+    "value": 3.5
+  },
+  {
+    "name": "MVC",
+    "value": 3.5
+  },
+  {
+    "name": "WCF",
+    "value": 3
+  },
+  {
+    "name": "Windows Form",
+    "value": 3
+  },
+  {
+    "name": "VB.NET",
+    "value": 3
+  },
+  {
+    "name": "ASP.NET",
+    "value": 3
+  },
+  {
+    "name": "Microservices",
+    "value": 3
   }
 ]

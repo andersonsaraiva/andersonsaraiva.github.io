@@ -12,7 +12,7 @@
                 <h4 :class="`${item.color}--text`" v-text="item.year"></h4>
                 <span v-text="item.period"></span>
               </template>
-              <h4 :class="`${item.color}--text`" v-text="item.company"></h4>
+              <h4 :class="`${item.color}--text`" v-text="item.company" @click="goTo(item.path)" :title="`Ir para ${item.path}`"></h4>
               <h5 v-text="item.job"></h5>
               <p v-text="item.description"></p>
             </v-timeline-item>
@@ -36,6 +36,12 @@ export default {
 
   components: {
     appTitle: () => import('@/components/title/app-title')
+  },
+
+  methods: {
+    goTo(path) {
+      window.open(path, '_blank');
+    }
   }
 };
 </script>
