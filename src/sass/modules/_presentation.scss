@@ -1,0 +1,41 @@
+.presentation {
+  height: 100vh;
+  text-align: center;
+
+  .col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  h1 {
+    color: #fff;
+  }
+
+  h2 {
+    color: rgba(255, 255, 255, 0.7);
+    max-width: 600px;
+    margin: 1.5rem 0 5rem 0;
+    padding: 20px 0;
+    position: relative;
+
+    &:before {
+      top: 0;
+    }
+
+    &:after {
+      bottom: 0;
+    }
+
+    &:before,
+    &:after {
+      position: absolute;
+      content: '';
+      left: 50%;
+      margin-left: -100px;
+      width: 200px;
+      height: 2px;
+      background: rgba(255, 255, 255, 0.7);
+    }
+  }
+}

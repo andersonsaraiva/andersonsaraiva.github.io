@@ -1,0 +1,7 @@
+@import '../base/variables';
+
+.theme--light {
+  &.v-application {
+    font-family: $font-face-raleway;
+  }
+}

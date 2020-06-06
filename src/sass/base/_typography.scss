@@ -1,0 +1,87 @@
+@import '../base/variables';
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 200;
+  font-family: $font-face-raleway;
+}
+
+h2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  font-family: $font-face-raleway;
+}
+
+h3 {
+  font-size: 1.875rem;
+  font-weight: 600;
+  line-height: 2.125rem;
+  letter-spacing: 1px;
+}
+
+h4 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+h5 {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+h6 {
+  font-size: $font-size-default;
+}
+
+a {
+  color: var(--v-primary-base);
+  text-decoration: none;
+  transition: all ease 0.1s;
+
+  &:hover,
+  &:focus,
+  &:active {
+    text-decoration: none;
+    color: initial;
+  }
+}
+
+.title-behind {
+  font-size: 7rem;
+  line-height: 2.125rem;
+  margin-top: 35px;
+  opacity: 0.07;
+  color: #191919;
+  font-weight: 600;
+}
+
+@media (max-width: 500px) {
+  .title-behind {
+    font-size: 4rem;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-height: 0.5rem;
+  }
+}
+
+body,
+h3,
+h4,
+h5,
+p,
+span,
+.title-behind {
+  font-family: $font-face-poppins;
+}

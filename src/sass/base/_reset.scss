@@ -1,0 +1,18 @@
+@import 'variables';
+
+* {
+  outline: none;
+}
+
+html {
+  overflow-y: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+::selection {
+  background: var(--v-primary-base);
+  color: #fff;
+}

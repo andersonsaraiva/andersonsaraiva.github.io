@@ -1,0 +1,118 @@
+[
+  {
+    "name": "HTML5",
+    "value": 5
+  },
+  {
+    "name": "CSS3",
+    "value": 5
+  },
+  {
+    "name": "Javascript",
+    "value": 5
+  },
+  {
+    "name": "Jquery",
+    "value": 5
+  },
+  {
+    "name": "Typescript",
+    "value": 4.5
+  },
+  {
+    "name": "VUE",
+    "value": 5
+  },
+  {
+    "name": "Angular",
+    "value": 3.5
+  },
+  {
+    "name": "AngularJs",
+    "value": 4
+  },
+  {
+    "name": "React",
+    "value": 3
+  },
+  {
+    "name": "React Native",
+    "value": 3
+  },
+  {
+    "name": "Node",
+    "value": 3
+  },
+  {
+    "name": "Responsive Design",
+    "value": 5
+  },
+  {
+    "name": "Cross Browser",
+    "value": 5
+  },
+  {
+    "name": "SEO",
+    "value": 5
+  },
+  {
+    "name": "C#",
+    "value": 3.5
+  },
+  {
+    "name": "MVC",
+    "value": 3.5
+  },
+  {
+    "name": "SQL & PL/SQL",
+    "value": 3
+  },
+  {
+    "name": "TFS",
+    "value": 5
+  },
+  {
+    "name": "GIT",
+    "value": 5
+  },
+  {
+    "name": "Bootstrap",
+    "value": 5
+  },
+  {
+    "name": "Material Design",
+    "value": 5
+  },
+  {
+    "name": "Webpack",
+    "value": 4
+  },
+  {
+    "name": "Jenkins",
+    "value": 4
+  },
+  {
+    "name": "Gulp",
+    "value": 4
+  },
+  {
+    "name": "Bower",
+    "value": 4
+  },
+  {
+    "name": "Grunt",
+    "value": 4
+  },
+  {
+    "name": "Azure DevOps",
+    "value": 4
+  },
+  {
+    "name": "Adobe Photoshop",
+    "value": 3
+  },
+  {
+    "name": "Adobe XD",
+    "value": 2.5
+  }
+]

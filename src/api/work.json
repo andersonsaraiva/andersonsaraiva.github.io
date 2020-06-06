@@ -1,0 +1,50 @@
+[
+  {
+    "color": "orange",
+    "year": "2018",
+    "period": "01/2018 - o momento",
+    "company": "I4PRO Insurance for Professionals",
+    "job": "Desenvolvedor front-end",
+    "description": "Responsável pelo desenvolvimento front-end na área de pesquisa e desenvolvimento, tendo como principais atividades o desenvolvimento de novas ferramentas que automatizam o trabalho dos colaboradores no dia a dia, manutenção de sistemas legados, criação e manutenção de sites e landing page, levantamento de requisitos. Principais tecnologias utilizadas: Vue, HTML5, CSS3, SASS, Javascript, Git."
+  },
+  {
+    "color": "teal",
+    "year": "2017",
+    "period": "12/2017 - 01/2018",
+    "company": "Grupo HDI",
+    "job": "Analista desenvolvedor pleno",
+    "description": "Atuando na área de pesquisa e desenvolvimento voltado para sistemas de automação de testes. Desenvolvimento e manutenção de sistemas Web e Windows Forms utilizando tecnologias como: C#, ASP.NET, VB.NET, JAVA, SQL SERVER, JavaScript, JQuery, Angular, HTML5, CSS3."
+  },
+  {
+    "color": "blue",
+    "year": "2015",
+    "period": "04/2015 - 10/2017",
+    "company": "ST IT Data",
+    "job": "Analista de sistemas pleno",
+    "description": "Neste ciclo como Pleno o desafio era bem maior, desenvolvendo sistemas web com tecnologias como: .NET, AngularJs, AngularUI, TypeScript, JavaScript, jQuery, PL/SQL, Sharepoint Online, Bootstrap, BootstrapUI, Grunt, Bower, Gulp, HTML5, CSS3. Projetos desenvolvidos com metodologia Ágil (SCRUM), tendo como maior tempo de projetos para instituições acadêmicas e de varejo."
+  },
+  {
+    "color": "blue",
+    "year": "2014",
+    "period": "01/2014 - 03/2015",
+    "company": "ST IT Data",
+    "job": "Analista de sistemas júnior",
+    "description": "Neste ciclo como Junior, foi onde aprofundei meus conhecimentos com outros desenvolvedores experientes, atuando em grandes projetos da Kroton Educacional e SBT. Participando de treinamentos internos de PL/SQL e C#. Boa parte deste período atuei desenvolvendo software e portais com tecnologias: .NET, Oracle e front-end com html5, CSS3 e javascript com jquery fazendo diversas iterações nas telas. Auxiliando e fazendo acompanhamento de cada etapa dos projetos que participei, homologando e implantando em produção. Criando documentações de plano de testes e documentações técnicas."
+  },
+  {
+    "color": "blue",
+    "year": "2012",
+    "period": "09/2012 - 01/2014",
+    "company": "ST IT Data",
+    "job": "Estagiário desenvolvimento web",
+    "description": "Boa parte desse ciclo foi de pura aprendizagem com diversos profissionais, participando de treinamentos internos de PL/SQL e C#, onde pude aprender padrões de desenvolvimento, melhores práticas na criação do front end para os sistemas, criação de estruturas de um projeto, criação de documentações técnicas e teste de qualidade."
+  },
+  {
+    "color": "red",
+    "year": "2012",
+    "period": "01/2012 - 08/2012",
+    "company": "Agência Foster",
+    "job": "Estagiário desenvolvimento front-end",
+    "description": "Foi aqui que comecei a conhecer de fato o que era front-end, tive meus primeiros contatos com html, css, javascript, SEO, mobile, SVN, onde tive a oportunidade de criar sites, hotsites e dar manutenção em grandes aplicações onde fez me desenvolver muito."
+  }
+]

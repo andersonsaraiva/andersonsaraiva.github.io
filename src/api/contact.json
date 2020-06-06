@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "fas fa-mobile-alt",
+    "title": "Telefone",
+    "description": "+55 11 97511-0119"
+  },
+  {
+    "icon": "fas fa-map-marked-alt",
+    "title": "Localização",
+    "description": "São Paulo - Brasil"
+  },
+  {
+    "icon": "far fa-envelope-open",
+    "title": "Email",
+    "description": "a.saraiva90@gmail.com"
+  }
+]

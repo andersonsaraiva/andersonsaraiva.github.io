@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "fab fa-github",
+    "name": "Github",
+    "path": "https://github.com/andersonsaraiva"
+  },
+  {
+    "icon": "fab fa-linkedin",
+    "name": "LinkedIn",
+    "path": "https://www.linkedin.com/in/andersonsaraiva"
+  },
+  {
+    "icon": "fab fa-twitter",
+    "name": "Twitter",
+    "path": "https://twitter.com/saraiva90"
+  },
+  {
+    "icon": "fab fa-instagram",
+    "name": "Instagram",
+    "path": "https://www.instagram.com/andsaraiva"
+  },
+  {
+    "icon": "fab fa-facebook",
+    "name": "Facebook",
+    "path": "https://www.facebook.com/anderson.saraiva90/"
+  },
+  {
+    "icon": "fas fa-envelope",
+    "name": "Email",
+    "path": "mailto:a.saraiva90@gmail.com"
+  }
+]

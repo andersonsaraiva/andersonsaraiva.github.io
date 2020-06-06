@@ -1,0 +1,58 @@
+[
+  {
+    "icon": "fas fa-graduation-cap",
+    "institution": "FMU",
+    "period": "08/2010 à 07/2013",
+    "course": "Análise e Desenvolvimento de Sistemas",
+    "path": "https://portal.fmu.br/graduacao/cursos/analise-e-desenvolvimento-de-sistemas/"
+  },
+  {
+    "icon": "fas fa-award",
+    "institution": "Ka Solution",
+    "period": "09/2014",
+    "course": "20480 - Programming in HTML5 with JavaScript and CSS3",
+    "path": "https://www.kasolution.com.br/Microsoft/20480"
+  },
+  {
+    "icon": "fas fa-award",
+    "institution": "Agilecode - Rodrigo Branas",
+    "period": "06/2019",
+    "course": "JavaScript Masterclass",
+    "path": "https://www.agilecode.com.br/#!/curso-javascript"
+  },
+  {
+    "icon": "fas fa-award",
+    "institution": "Udemy",
+    "period": "04/2020",
+    "course": "React + Redux: Fundamentos e 2 Apps do Absoluto ZERO",
+    "path": "https://www.udemy.com/certificate/UC-5195f374-22eb-49da-9226-e3d971160ede/"
+  },
+  {
+    "icon": "fas fa-award",
+    "institution": "Udemy",
+    "period": "04/2020",
+    "course": "SPA com Vue JS e API com Laravel",
+    "path": "https://www.udemy.com/certificate/UC-750eaaf8-12dd-4548-a170-22c1b23aad2c/"
+  },
+  {
+    "icon": "fas fa-award",
+    "institution": "Udemy",
+    "period": "06/2018",
+    "course": "Introdução ao Vue JS 2",
+    "path": "https://www.udemy.com/certificate/UC-C87MYHO9/"
+  },
+  {
+    "icon": "fas fa-award",
+    "institution": "Udemy",
+    "period": "01/2017",
+    "course": "Curso Completo de jQuery + 10 Projetos Práticos",
+    "path": "https://www.udemy.com/certificate/UC-W09SEB7Z/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email"
+  },
+  {
+    "icon": "fas fa-award",
+    "institution": "Udemy",
+    "period": "04/2017",
+    "course": "C# Programação Orientada a Objetos + Projetos",
+    "path": "https://www.udemy.com/certificate/UC-8785c622-b2c6-42b8-9649-2fcb29f427b3/"
+  }
+]

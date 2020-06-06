@@ -1,0 +1,38 @@
+@mixin font-size($size, $weight) {
+  font-size: $size;
+  font-weight: $weight;
+}
+
+.timeline-work {
+  .v-timeline-item__opposite {
+    flex-direction: column;
+    display: flex;
+
+    h4 {
+      @include font-size(1.5rem, 600);
+      line-height: 2rem;
+    }
+
+    span {
+      @include font-size(0.9rem, 300);
+    }
+  }
+
+  .v-timeline-item__body {
+    h4 {
+      @include font-size(1.5rem, 300);
+      line-height: 2rem;
+    }
+
+    h5 {
+      @include font-size(1rem, 300);
+      margin-bottom: 1.5rem;
+      letter-spacing: 0.05rem;
+    }
+
+    p {
+      @include font-size(1rem, 300);
+      color: #555;
+    }
+  }
+}
