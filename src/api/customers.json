@@ -1,0 +1,72 @@
+[
+  {
+    "image": "/static/customers/i4pro.png",
+    "name": "I4PRO",
+    "path": "http://www.i4pro.com.br/"
+  },
+  {
+    "image": "/static/customers/prudential.png",
+    "name": "Prudential",
+    "path": "https://www.prudentialdobrasil.com.br/"
+  },
+  {
+    "image": "/static/customers/fator-seguradora.png",
+    "name": "Fator Seguradora",
+    "path": "https://www.fatorseguradora.com.br/"
+  },
+  {
+    "image": "/static/customers/fairfax.png",
+    "name": "Fairfax Brasil",
+    "path": "http://www.fairfax.com.br/"
+  },
+  {
+    "image": "/static/customers/stitdata.png",
+    "name": "ST IT Data",
+    "path": "http://stitconsulting.com.br/"
+  },
+  {
+    "image": "/static/customers/4-insights.png",
+    "name": "4Insights",
+    "path": "http://www.4insights.net/"
+  },
+  {
+    "image": "/static/customers/Kroton.png",
+    "name": "Kroton",
+    "path": "http://www.kroton.com.br/"
+  },
+  {
+    "image": "/static/customers/sbt.png",
+    "name": "SBT",
+    "path": "https://www.sbt.com.br/"
+  },
+  {
+    "image": "/static/customers/carrefour.png",
+    "name": "Carrefour",
+    "path": "https://www.carrefour.com.br/"
+  },
+  {
+    "image": "/static/customers/pao-de-acucar.png",
+    "name": "Pão de Açucar",
+    "path": "https://www.paodeacucar.com/"
+  },
+  {
+    "image": "/static/customers/metro-sp.png",
+    "name": "Metrô",
+    "path": "http://www.metro.sp.gov.br/"
+  },
+  {
+    "image": "/static/customers/emtu-sp.png",
+    "name": "EMTU",
+    "path": "http://www.emtu.sp.gov.br/"
+  },
+  {
+    "image": "/static/customers/danone.png",
+    "name": "Danone",
+    "path": "http://www.danonebaby.com.br/"
+  },
+  {
+    "image": "/static/customers/hospital-sirio-libanes.png",
+    "name": "Hospital Sírio Libanês",
+    "path": "https://www.hospitalsiriolibanes.org.br/"
+  }
+]

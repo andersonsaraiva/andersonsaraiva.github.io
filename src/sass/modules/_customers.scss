@@ -1,0 +1,35 @@
+.customers {
+  position: relative;
+  background-image: url('/static/bg-customers.png');
+  background-repeat: repeat;
+
+  .VueCarousel {
+    .VueCarousel-slide {
+      img {
+        filter: grayscale(100%);
+        transition: all 0.3s;
+        cursor: pointer;
+
+        &:hover {
+          filter: grayscale(0);
+          transition: all 0.3s;
+        }
+      }
+    }
+
+    .VueCarousel-pagination {
+      padding-top: 50px;
+
+      .VueCarousel-dot-container {
+        .VueCarousel-dot {
+          border-radius: 0;
+          width: 20px !important;
+          height: 5px !important;
+          margin: 0 5px;
+          background: #fff;
+          border: 1px solid #b4b4b4;
+        }
+      }
+    }
+  }
+}

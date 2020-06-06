@@ -20,6 +20,7 @@
     "typeface-poppins": "^0.0.72",
     "typeface-raleway": "^0.0.75",
     "vue": "^2.6.11",
+    "vue-carousel": "^0.18.0",
     "vue-i18n": "^8.16.0",
     "vue-loading-overlay": "^3.3.2",
     "vuetify": "^2.2.11",

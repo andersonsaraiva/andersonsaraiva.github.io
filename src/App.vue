@@ -12,6 +12,8 @@
 
     <appSkills />
 
+    <appCustomers />
+
     <appContact />
 
     <appFooter />
@@ -25,6 +27,7 @@ export default {
   components: {
     appAbout: () => import('@/components/about/app-about'),
     appContact: () => import('@/components/contact/app-contact'),
+    appCustomers: () => import('@/components/customers/app-customers'),
     appEducation: () => import('@/components/education/app-education'),
     appFooter: () => import('@/components/footer/app-footer'),
     appHeader: () => import('@/components/header/app-header'),
