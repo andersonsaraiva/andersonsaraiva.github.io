@@ -2,7 +2,6 @@ import Vue from 'vue';
 import Vuetify from 'vuetify/lib';
 import VueI18n from 'vue-i18n';
 import localePt from 'vuetify/lib/locale/pt';
-import 'vuetify/dist/vuetify.min.css';
 
 Vue.use(Vuetify);
 Vue.use(VueI18n);

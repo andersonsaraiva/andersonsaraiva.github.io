@@ -1,8 +1,17 @@
 [
   {
+    "color": "purple",
+    "year": "2021",
+    "period": "08/2021 - o momento",
+    "company": "Biobe - Corretora digital",
+    "path": "https://www.biobe.com.br",
+    "job": "Head of front end Engineering",
+    "description": "Tech Lead front-end, tendo como principais atividades, realizar a arquitetura e desenvolvimento de novas ferramentas, criar e manter pipelines de automatizam as tarefas do dia-a-dia. Principais tecnologias utilizadas: Vue, HTML5, CSS3, SASS, Javascript, Git e Azure devOps."
+  },
+  {
     "color": "orange",
     "year": "2018",
-    "period": "01/2018 - o momento",
+    "period": "01/2018 - 08/2021",
     "company": "I4PRO Insurance for Professionals",
     "path": "http://www.i4pro.com.br/",
     "job": "Desenvolvedor front-end",
